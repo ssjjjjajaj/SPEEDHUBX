@@ -1,0 +1,2 @@
+loadstring(game:HttpGet('https://darkscripts.space/scripts/26fa606a-9658-4091-a8a6-162ccf34f386_1144038291306467398.lua',true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
